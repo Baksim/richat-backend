@@ -1,2 +1,2 @@
 # richat-backend
-Backend for Richat social network
+Backend for Richat social network (school project)
